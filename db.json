@@ -7,7 +7,7 @@
       "jawabanb" :  "Pasal 26 Undang-Undang No. 36 Tahun 2004",
       "jawabanc" :  "Pasal 26 Undang-Undang No. 63 Tahun 2004",
       "jawaband" :  "Pasal 26 Undang Undang No. 36 Tahun 2008",
-      "kuncijawaban" : "jawabana"
+      "kuncijawaban" : "Pasal 26 Undang-Undang No. 63 Tahun 2008"
 
     },
     {
@@ -17,7 +17,7 @@
       "jawabanb" :  "Penyelenggara kegiatan dan bentuk usaha tetap",
       "jawabanc" :  "Perwakilan perusahaan luar negeri lainnya yang tidak melakukan pembayaran kepada Wajib Pajak luar negeri selain bentuk usaha tetap",
       "jawaband" :  "Bentuk usaha tetap dan subjek pajak dalam negeri",
-      "kuncijawaban" : "jawabanc"
+      "kuncijawaban" : "Perwakilan perusahaan luar negeri lainnya yang tidak melakukan pembayaran kepada Wajib Pajak luar negeri selain bentuk usaha tetap"
 
     },
     {
@@ -27,7 +27,7 @@
       "jawabanb" :  "20%",
       "jawabanc" :  "25%",
       "jawaband" :  "30%",
-      "kuncijawaban" : "jawabanb"
+      "kuncijawaban" : "20%"
 
     },
     {
@@ -37,7 +37,7 @@
       "jawabanb" :  "(2) dan (3)",
       "jawabanc" :  "(1), (2), dan (3)",
       "jawaband" :  "Jawaban tidak ada yang benar",
-      "kuncijawaban" : "jawabanc"
+      "kuncijawaban" : "(1), (2), dan (3)"
 
     },
     {
@@ -47,7 +47,7 @@
       "jawabanb" :  "Rp100.000.000,-",
       "jawabanc" :  "Rp120.000.000,-",
       "jawaband" :  "Rp210.000.000,-",
-      "kuncijawaban" : "jawabanb"
+      "kuncijawaban" : "Rp100.000.000,-"
 
     },
     {
@@ -57,7 +57,7 @@
       "jawabanb" :  "PPh Pasal 26 = 20% x Penghasilan neto",
       "jawabanc" :  "PPh Pasal 26 = 20% x (50% x Penghasiln bruto)",
       "jawaband" :  "PPh Pasal 26 = 20% x Jumlah premi yang dibayar",
-      "kuncijawaban" : "jawabana"
+      "kuncijawaban" : "PPh Pasal 26 = 20% x Penghasilan bruto"
 
     },
     {
@@ -67,7 +67,7 @@
       "jawabanb" :  "20 hari sebelum bulan saat terutangnya pajak",
       "jawabanc" :  "10 hari setelah masa pajak berakhir",
       "jawaband" :  "20 hari setelah masa pajak berakhir",
-      "kuncijawaban" : "jawaband"
+      "kuncijawaban" : "20 hari sebelum bulan saat terutangnya pajak"
 
     },
     {
@@ -77,7 +77,7 @@
       "jawabanb" :  "Rp31.125.000.000,-",
       "jawabanc" :  "Rp13.125.000.000,-",
       "jawaband" :  "Rp31.215.000.000,-",
-      "kuncijawaban" : "jawabanc"
+      "kuncijawaban" : "Rp13.125.000.000,-"
 
     },
     {
@@ -87,7 +87,7 @@
       "jawabanb" :  "Rp2.652.000.000,-",
       "jawabanc" :  "Rp6.525.000.000,-",
       "jawaband" :  "Rp2.625.000.000,-",
-      "kuncijawaban" : "jawaband"
+      "kuncijawaban" : "Rp2.625.000.000,-"
 
     },
     {
@@ -97,7 +97,7 @@
       "jawabanb" :  "Rp12.500.000,-",
       "jawabanc" :  "Rp10.000.000,-",
       "jawaband" :  "Rp  7.500.000,-",
-      "kuncijawaban" : "jawabanc"
+      "kuncijawaban" : "Rp10.000.000,-"
 
     },
     {
@@ -107,7 +107,7 @@
       "jawabanb" :  "Tanggal 25 bulan kedua setelah tahun pajak atau bagian tahun pajak berakhir, sebelum Surat Pemberitahuan Tahunan disampaikan",
       "jawabanc" :  "Tanggal 25 bulan ketiga setelah tahun pajak atau bagian tahun pajak berakhir, sebelum Surat Pemberitahuan Tahunan disampaikan",
       "jawaband" :  "Tanggal 25 bulan ketiga setelah tahun pajak atau bagian tahun pajak berakhir, sebelum Surat Pemberitahuan Masa disampaikan",
-      "kuncijawaban" : "jawabanc"
+      "kuncijawaban" : "Tanggal 25 bulan ketiga setelah tahun pajak atau bagian tahun pajak berakhir, sebelum Surat Pemberitahuan Tahunan disampaikan"
 
     },
     {
@@ -117,7 +117,7 @@
       "jawabanb" :  "(2) dan (3)",
       "jawabanc" :  "(1), (2), dan (3)",
       "jawaband" :  "(4) dan (5)",
-      "kuncijawaban" : "jawabanc"
+      "kuncijawaban" : "(1), (2), dan (3)"
 
     },
     {
@@ -127,7 +127,7 @@
       "jawabanb" :  "Penghasilan berupa dividen; bunga, termasuk premium, diskonto, premi swap dan imbalan sehubungan dengan jaminan pengembalian utang",
       "jawabanc" :  "Penghasilan Wajib Pajak orang pribadi atau badan luar negeri yang berubah status menjadi Wajib Pajak dalam negeri atau bentuk usaha tetap",
       "jawaband" :  "Semua jawaban benar",
-      "kuncijawaban" : "jawaband"
+      "kuncijawaban" : "Semua jawaban benar"
 
     },
     {
@@ -137,7 +137,7 @@
       "jawabanb" :  "7,5%",
       "jawabanc" :  "10%",
       "jawaband" :  "20%",
-      "kuncijawaban" : "jawabanc"
+      "kuncijawaban" : "10%"
 
     },
     {
@@ -147,7 +147,7 @@
       "jawabanb" :  "Nomor 2 Tahun 2007",
       "jawabanc" :  "Nomor 11 Tahun 1998",
       "jawaband" :  "Nomor 12 Tahun 1998",
-      "kuncijawaban" : "jawabana"
+      "kuncijawaban" : "Nomor 1 Tahun 2007"
     }
   ]
 }
