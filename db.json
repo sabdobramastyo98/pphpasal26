@@ -1,0 +1,153 @@
+{
+  "pphpasal26" : [
+    {
+      "id" : 1,
+      "soal" : "Pemotongan atas penghasilan yang bersumber dari Indonesia yang diterima atau diperoleh Wajib Pajak luar negeri selain bentuk usaha tetap diatur dalam…..",
+      "jawabana" :  "Pasal 26 Undang-Undang No. 63 Tahun 2008",
+      "jawabanb" :  "Pasal 26 Undang-Undang No. 36 Tahun 2004",
+      "jawabanc" :  "Pasal 26 Undang-Undang No. 63 Tahun 2004",
+      "jawaband" :  "Pasal 26 Undang Undang No. 36 Tahun 2008",
+      "kuncijawaban" : "jawabana"
+
+    },
+    {
+      "id" : 2,
+      "soal" : "Pemotongan Pajak Penghasilan Pasal 26 (PPh Pasal 26) wajib dilakukan oleh, kecuali…..",
+      "jawabana" :  "Badan pemerintah dan subjek pajak dalam negeri",
+      "jawabanb" :  "Penyelenggara kegiatan dan bentuk usaha tetap",
+      "jawabanc" :  "Perwakilan perusahaan luar negeri lainnya yang tidak melakukan pembayaran kepada Wajib Pajak luar negeri selain bentuk usaha tetap",
+      "jawaband" :  "Bentuk usaha tetap dan subjek pajak dalam negeri",
+      "kuncijawaban" : "jawabanc"
+
+    },
+    {
+      "id" : 3,
+      "soal" : "Berapakah besarnya tarif PPh Pasal 26?",
+      "jawabana" :  "15%",
+      "jawabanb" :  "20%",
+      "jawabanc" :  "25%",
+      "jawaband" :  "30%",
+      "kuncijawaban" : "jawabanb"
+
+    },
+    {
+      "id" : 4,
+      "soal" : "(1) Tarif 20% dari penghasilan bruto <br> (2) Tarif 20% dari penghasilan neto <br>(3) Tarif 20% dari penghasilan kena pajak setelah dikurangi Pajak Penghasilan <br> Berdasarkan ketentuan diatas, tarif PPh Pasal 20% dikenakan dari dasar pengenaan pajak ditunjukkan nomor berapa saja?",
+      "jawabana" :  "(1) dan (3)",
+      "jawabanb" :  "(2) dan (3)",
+      "jawabanc" :  "(1), (2), dan (3)",
+      "jawaband" :  "Jawaban tidak ada yang benar",
+      "kuncijawaban" : "jawabanc"
+
+    },
+    {
+      "id" : 5,
+      "soal" : "PT Blackcurrant merupakan perusahaan persewaan gedung kantor. Pada tahun 2016, perusahaan mengasuransikan bangunan bertingkat ke perusahaan asuransi di luar negeri Building Life Inc. premi yang dibayar oleh PT Blackcurrant kepada Building Life Inc sebesar Rp1.000.000.000,-. Berapakah PPh Pasal 26 yang terutang?",
+      "jawabana" :  "Rp200.000.000,-",
+      "jawabanb" :  "Rp100.000.000,-",
+      "jawabanc" :  "Rp120.000.000,-",
+      "jawaband" :  "Rp210.000.000,-",
+      "kuncijawaban" : "jawabanb"
+
+    },
+    {
+      "id" : 6,
+      "soal" : "Bagaimana perhitungan yang diterapkan untuk penghasilan yang bersumber dari modal dalam bentuk imbalan sehubungan dengan jasa, pekerjaan, dan kegiatan?",
+      "jawabana" :  "PPh Pasal 26 = 20% x Penghasilan bruto",
+      "jawabanb" :  "PPh Pasal 26 = 20% x Penghasilan neto",
+      "jawabanc" :  "PPh Pasal 26 = 20% x (50% x Penghasiln bruto)",
+      "jawaband" :  "PPh Pasal 26 = 20% x Jumlah premi yang dibayar",
+      "kuncijawaban" : "jawabana"
+
+    },
+    {
+      "id" : 7,
+      "soal" : "Pemotong PPh Pasal 26 diwajibkan untuk menyampaikan Surat Pemberitahuan Masa selambat-lambatnya…..",
+      "jawabana" :  "10 hari setelah bulan saat terutangnya pajak",
+      "jawabanb" :  "20 hari sebelum bulan saat terutangnya pajak",
+      "jawabanc" :  "10 hari setelah masa pajak berakhir",
+      "jawaband" :  "20 hari setelah masa pajak berakhir",
+      "kuncijawaban" : "jawaband"
+
+    },
+    {
+      "id" : 8,
+      "soal" : "Suatu bentuk usaha tetap di Indonesia memperoleh Penghasilan Kena Pajak sebesar Rp17.500.000.000,-. Berapakah penghasilan setelah dikurangi pajak?",
+      "jawabana" :  "Rp13.215.000.000,-",
+      "jawabanb" :  "Rp31.125.000.000,-",
+      "jawabanc" :  "Rp13.125.000.000,-",
+      "jawaband" :  "Rp31.215.000.000,-",
+      "kuncijawaban" : "jawabanc"
+
+    },
+    {
+      "id" : 9,
+      "soal" : "Berdasrkan soal pada nomor 8, berapakah PPh Pasal 26 yang terutang?",
+      "jawabana" :  "Rp6.225.000.000,-",
+      "jawabanb" :  "Rp2.652.000.000,-",
+      "jawabanc" :  "Rp6.525.000.000,-",
+      "jawaband" :  "Rp2.625.000.000,-",
+      "kuncijawaban" : "jawaband"
+
+    },
+    {
+      "id" : 10,
+      "soal" : "PT Marilungo tidak mengansuransikan bangunannya langsung ke perusahaan asuransi di luar negeri, tetapi mengasuransikan bangunan yang dimilikinya kepada perusahaan asuransi dalam negeri, yaitu Perusahaan Asuransi Beringin Dikangen dengan jumlah premi sebesar Rp750.000.000,-. Untuk mengurangi risiko, Beringin Dikangen mengasuransikan sebagian polis asuransinya kepada perusahaan asuransi di luar negeri Tower Insurance Ltd. dengan premi sebesar Rp500.000.000,-. Berapakah PPh Pasal 26 yang harus dipotong Beringin Dikangen?",
+      "jawabana" :  "Rp15.000.000,-",
+      "jawabanb" :  "Rp12.500.000,-",
+      "jawabanc" :  "Rp10.000.000,-",
+      "jawaband" :  "Rp  7.500.000,-",
+      "kuncijawaban" : "jawabanc"
+
+    },
+    {
+      "id" : 11,
+      "soal" : " Pemotongan PPh Pasal 26 atas penghasilan berupa Penghasilan Kena Pajak sesudah dikurangi pajak dari semua bentuk usaha tetap di Indonesia, terutang dan harus dibayar lunas selambat-lambatnya…..",
+      "jawabana" :  "Tanggal 25 bulan pertama setelah tahun pajak atau bagian tahun pajak berakhir, sebelum Surat Pemberitahuan Tahunan disampaikan",
+      "jawabanb" :  "Tanggal 25 bulan kedua setelah tahun pajak atau bagian tahun pajak berakhir, sebelum Surat Pemberitahuan Tahunan disampaikan",
+      "jawabanc" :  "Tanggal 25 bulan ketiga setelah tahun pajak atau bagian tahun pajak berakhir, sebelum Surat Pemberitahuan Tahunan disampaikan",
+      "jawaband" :  "Tanggal 25 bulan ketiga setelah tahun pajak atau bagian tahun pajak berakhir, sebelum Surat Pemberitahuan Masa disampaikan",
+      "kuncijawaban" : "jawabanc"
+
+    },
+    {
+      "id" : 12,
+      "soal" : "(1) Dividen;<br>(2) Bunga termasuk premium, diskonto; <br>(3) Royalty, sewa, dan penghasilan lain sehubungan dengan penggunaan harta;<br>(4) Impor barang;<br>(5) Penjualan emas batangan oleh badan usaha yang memproduksi emas batangan;<br>Apa saja objek PPh pasal 26 berdasarkan nomor (1) – (5) ?",
+      "jawabana" :  "(1) dan (4)",
+      "jawabanb" :  "(2) dan (3)",
+      "jawabanc" :  "(1), (2), dan (3)",
+      "jawaband" :  "(4) dan (5)",
+      "kuncijawaban" : "jawabanc"
+
+    },
+    {
+      "id" : 13,
+      "soal" : "Berikut ini penghasilan-penghasilan yang pemotongannya tidak bersifat final adalah…..",
+      "jawabana" :  "Penghasilan kantor pusat dari usaha atau kegiatan, penjualan barang, atau pemberian jasa di Indonesia yang sejenis",
+      "jawabanb" :  "Penghasilan berupa dividen; bunga, termasuk premium, diskonto, premi swap dan imbalan sehubungan dengan jaminan pengembalian utang",
+      "jawabanc" :  "Penghasilan Wajib Pajak orang pribadi atau badan luar negeri yang berubah status menjadi Wajib Pajak dalam negeri atau bentuk usaha tetap",
+      "jawaband" :  "Semua jawaban benar",
+      "kuncijawaban" : "jawaband"
+
+    },
+    {
+      "id" : 14,
+      "soal" : "Pengenaan pajak penghasilan atas dividen yang dibayarkan kepada subjek pajak luar negeri sebesar…",
+      "jawabana" :  "5%",
+      "jawabanb" :  "7,5%",
+      "jawabanc" :  "10%",
+      "jawaband" :  "20%",
+      "kuncijawaban" : "jawabanc"
+
+    },
+    {
+      "id" : 15,
+      "soal" : "Pengenaan pajak penghasilan atas dividen yang dibayarkan kepada subjek pajak luar negeri menurut penghindaran pajak berganda yang berlaku dalam hal terdapat penanaman modal di bidang-bidang usaha tertentu dan/atau di daerah-daerah tertentu sesuai Peraturan Pemerintah nomor…",
+      "jawabana" :  "Nomor 1 Tahun 2007",
+      "jawabanb" :  "Nomor 2 Tahun 2007",
+      "jawabanc" :  "Nomor 11 Tahun 1998",
+      "jawaband" :  "Nomor 12 Tahun 1998",
+      "kuncijawaban" : "jawabana"
+    }
+  ]
+}
